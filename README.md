@@ -1,6 +1,17 @@
-<h2 align="left">Hi 👋! My name is  Hasintha</h2>
 
 
+<div align="center">
+    <h3></h3>
+    <a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=6CC6F7&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Hasintha+Darshana" alt="Typing SVG">
+    </a>
+</div>
+
+
+<p style="text-align: left; padding-left: 90px">I'm ,</p>
+            <a href="https://git.io/typing-svg"><img
+                    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=40&duration=1000&pause=1000&color=90e0ef&vCenter=true&width=800&height=100&lines=Software+Engineer;Software+Developer;Web+Designer+;Web+Developer;UX+%2F+UI+Designer;Professional+Coder"
+                    alt="Typing SVG"/></a>
 
 
 <div align="left">
