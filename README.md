@@ -55,7 +55,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
+<br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasintha-Darshana&theme=2077)
+
+
+
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hasintha-Darshana&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hasintha-Darshana&theme=2077)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hasintha-Darshana&theme=2077&utcOffset=8)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Hasintha-Darshana&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hasintha-Darshana&theme=dark&hide_border=false)<br/>
