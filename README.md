@@ -61,11 +61,10 @@
 
 
 # 📊 GitHub Stats:
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hasintha-Darshana&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hasintha-Darshana&theme=cobalt" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hasintha-Darshana&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hasintha-Darshana&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasintha-Darshana&theme=2077" height="180em" />
+![](https://github-readme-stats.vercel.app/api?username=Hasintha-Darshana&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Hasintha-Darshana&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasintha-Darshana&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
 
 
