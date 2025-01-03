@@ -57,16 +57,9 @@
 
 <br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hasintha-Darshana&theme=2077)
 
 
 
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hasintha-Darshana&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hasintha-Darshana&theme=2077)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hasintha-Darshana&theme=2077&utcOffset=8)
 # 📊 GitHub Stats:
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hasintha-Darshana&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hasintha-Darshana&theme=cobalt" height="180em" />
